@@ -1,4 +1,7 @@
 # MLRolePlayCustomGPT
+
+CustomGPT: https://chat.openai.com/g/g-vYsvb1FoE-ml-role-play-by-harshit-kumar
+
 Diverse perspectives (Archaeologist, Private Investigator, Explainer, Diagrammer, Policymaker, Industrial Researcher, Academic Researcher, and NeurIPS reviewer)
 
 It provides detail by acting as
@@ -16,7 +19,9 @@ It provides detail by acting as
 
 ## Dataset 
 
-Dataset: Khoury's CS 7150 Deep Learning projects.
+Dataset: [Khoury's CS 7150 Deep Learning projects](https://expo.baulab.info/2023-Fall/)
 
-![](./MLRolePlay1.jpg)
-![](./MLRolePlay2.jpg)
+## Preview
+
+![](./MLRolePlay1.png)
+![](./MLRolePlay2.png)
